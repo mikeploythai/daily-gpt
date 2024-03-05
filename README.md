@@ -1,4 +1,4 @@
-### dictator-gpt
+### daily-gpt
 
 > Submission for CPSC 411-01, Final Project<br>
 > Created by Mike Ploythai, Dania Nasereddin, Naeem Khayat Albirkdar, Yahya Nashawati, Brennon Hahs
